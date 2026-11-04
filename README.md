@@ -4,31 +4,53 @@
 
 A computer science graduate pairing engineering foundations with multi-market growth strategies. Proven execution architecture driving 7-figure enterprise SaaS pipelines, handling high-risk banking operations, and engineering AI-driven automated prospecting sequences across the US, GCC, and MENA markets.
 
-*   [Connect on LinkedIn](https://linkedin.com)
-*   [Send an Email](mailto:faizanuk098@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/faizan-k-7a4569255" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:faizanuk098@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
 
 ---
 
 ### 👑 Performance Vectors & Milestones
 
-*   **Tier 1 Portfolio Banking Scrutiny:** Managed ENR portfolios against an individual monthly quota of **AED 1.3 Million** for Deem Finance UAE (backed by a \$400M J.P. Morgan facility).
-*   **Enterprise SaaS Pipeline Management:** Designed cross-border software discovery frameworks for municipal authorities like the Dubai Police and University of Bahrain.
-*   **Sustained Account Value Surge:** Scaled a premier GCC corporate client portfolio from an entry \$10,000 contract to **\$100,000** via strategic upselling.
-*   **Outbound Automation & Funnels:** Engineered **15+ specialized AI workflows** with custom lead lists and personalized outreach architectures to consistently beat quotas by 20%+.
+<table border="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <ul>
+        <li><b>Tier 1 Portfolio Banking Scrutiny:</b> Managed ENR portfolios against an individual monthly quota of <b>AED 1.3 Million</b> for Deem Finance UAE (backed by a \$400M J.P. Morgan facility).</li>
+        <li><b>Enterprise SaaS Pipeline Management:</b> Designed cross-border software discovery frameworks for municipal authorities like the Dubai Police and University of Bahrain.</li>
+        <li><b>Sustained Account Value Surge:</b> Scaled a premier GCC corporate client portfolio from an entry \$10,000 contract to <b>\$100,000</b> via strategic upselling.</li>
+        <li><b>Outbound Automation & Funnels:</b> Engineered <b>15+ specialized AI workflows</b> with custom lead lists and personalized outreach architectures to consistently beat quotas by 20%+.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <!-- PREMIUM DYNAMIC HOVER MATRIX ANIMATION -->
+      <img src="https://giphy.com" width="220" alt="Cyber HUD Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛡️ System Matrix & Technical Infrastructure
 
+<p align="center">
+  <img src="https://asciiart.eu" width="100%" alt="System Matrix Stream" style="display: none;" />
+</p>
+
 ```text
-  ┌─────────────────────────┐ ┌─────────────────────────┐ ┌─────────────────────────┐
-  │  BANKING & DEPLOYMENT   │ │     AI AUTOMATION       │ │     ENTERPRISE DEV      │
-  ├─────────────────────────┤ ├─────────────────────────┤ ├─────────────────────────┤
-  │ › Silverlake Axis BOS   │ │ › Claude 3.5 Engine     │ │ › SQL Database Systems  │
-  │ › C360 Interface Matrix │ │ › OpenAI GPT Channels   │ │ › Git Workflow Security │
-  │ › HubSpot / Zoho CRMs   │ │ › Perplexity Intelligence│ │ › System Spec Blueprint │
-  │ › Advanced Excel Control│ │ › Automated Outreach    │ │ › Interactive Loom POCs │
-  └─────────────────────────┘ └─────────────────────────┘ └─────────────────────────┘
+===========================================================================
+[ BANKING & DEPLOYMENT ]   [     AI AUTOMATION     ]   [  ENTERPRISE DEV  ]
+------------------------   -------------------------   --------------------
+› Silverlake Axis BOS      › Claude 3.5 Engine         › SQL Database Systems
+› C360 Interface Matrix    › OpenAI GPT Channels       › Git Source Control
+› HubSpot / Zoho CRMs      › Perplexity Intelligence   › System Blueprints
+› Advanced Excel Control   › Automated Outreach Flows  › Interactive Demos
+===========================================================================
 ```
 
 ---
@@ -51,4 +73,7 @@ A computer science graduate pairing engineering foundations with multi-market gr
 
 ---
 
-Execution Engine Confirmed. Ready for Deployment.
+<p align="center">
+  <!-- RUNNING AMBIENT LINEAR ANIMATION TERMINATOR -->
+  <img src="https://githubusercontent.com" width="100%" height="8px" alt="Animated Divider" />
+</p>
