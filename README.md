@@ -1,23 +1,22 @@
+<!-- CYBERPUNK LOOPING INTERACTIVE ANIMATION BANNER -->
+<p align="center">
+  <img src="https://giphy.com" width="100%" height="160" alt="Tech Matrix Banner" />
+</p>
+
 # FAIZAN ULLAH KHAN
 
 ### Technical Business Development & Relationship Intelligence Specialist
 
 A computer science graduate pairing engineering foundations with multi-market growth strategies. Proven execution architecture driving 7-figure enterprise SaaS pipelines, handling high-risk banking operations, and engineering AI-driven automated prospecting sequences across the US, GCC, and MENA markets.
 
-<p align="left">
-  <a href="https://linkedin.com/in/faizan-k-7a4569255" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:faizanuk098@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
+*   👉 **[Connect on LinkedIn](https://linkedin.com)**
+*   ✉️ **[Send an Email](mailto:faizanuk098@gmail.com)**
 
 ---
 
 ### 👑 Performance Vectors & Milestones
 
-<table border="0" width="100%">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="65%" valign="top">
       <ul>
@@ -28,8 +27,8 @@ A computer science graduate pairing engineering foundations with multi-market gr
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- PREMIUM DYNAMIC HOVER MATRIX ANIMATION -->
-      <img src="https://giphy.com" width="220" alt="Cyber HUD Animation" />
+      <!-- DIGITAL HUB HUD LOOPING INTERACTIVE GRAPHIC -->
+      <img src="https://giphy.com" width="200" alt="Cyber HUD Interaction Loop" />
     </td>
   </tr>
 </table>
@@ -37,10 +36,6 @@ A computer science graduate pairing engineering foundations with multi-market gr
 ---
 
 ### 🛡️ System Matrix & Technical Infrastructure
-
-<p align="center">
-  <img src="https://asciiart.eu" width="100%" alt="System Matrix Stream" style="display: none;" />
-</p>
 
 ```text
 ===========================================================================
@@ -74,6 +69,6 @@ A computer science graduate pairing engineering foundations with multi-market gr
 ---
 
 <p align="center">
-  <!-- RUNNING AMBIENT LINEAR ANIMATION TERMINATOR -->
-  <img src="https://githubusercontent.com" width="100%" height="8px" alt="Animated Divider" />
+  <!-- RUNNING LINEAR NEON DIVIDER INTERFACE -->
+  <img src="https://githubusercontent.com" width="100%" height="8" alt="Data Stream Divider" />
 </p>
