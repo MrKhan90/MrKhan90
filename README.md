@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Faizan U Khan</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Faizan Ullah Khan</h1>
 <h3 align="center">Ai Solution Engineer</h3>
 
 <p align="center">
@@ -117,9 +117,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mrkhan&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
   </a>
 </p>
-
-![Top language](https://stats.pphat.top/languages?username=Mrkhan)
-<br/>
 
 ## 🔗 Connect with Me
 <p align="center">
